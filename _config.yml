@@ -7,13 +7,13 @@
 # server process.
 
 # Basic Site Settings
-locale                   : "en-US"
+locale                   : "zh-CN"
 site_theme               : "default"
-title                    : "Your Name / Site Title"
+title                    : "AoTsing"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "LiaoSheng"
 description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
+url                      : https://liaosheng1999.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
@@ -23,13 +23,13 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
-  uri              : # URL
-  email            : "none@example.org" 
+  name             : "Sheng Liao"
+  pronouns         : "he"  
+  bio              : "I am a first-year Ph.D. student at USTC, majoring in Electronic Information. My research area is Medical Imaging."
+  location         : "Suzhou City, Jiangsu Province，P.R. China"
+  employer         : "University of Science and Technology of China"
+  uri              : "https://www.ustc.edu.cn/"
+  email            : "liaosheng19992022@163.com" 
 
   # Academic websites
   academia         : # URL
