@@ -7,11 +7,8 @@ redirect_from:
   - /about.html
 ---
 **Education：**
-
 Sep. 2017 - Jun. 2021: B.Eng. in Computer Science and Technology, Jiangxi Normal University.
-
 Sep. 2022 - Jun. 2025: M.S. in Computer Science and Technology, ShanghaiTech University.
-
 Sep. 2025 - Present: Ph.D. student in Electronic Information, University of Science and Technology of China (USTC).
 
 **Research Focus:**
