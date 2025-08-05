@@ -22,7 +22,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "head.jpg"
   name             : "Sheng Liao"
   pronouns         : "he"  
   bio              : "I am a first-year Ph.D. student at USTC, majoring in Electronic Information. My research area is Medical Imaging."
